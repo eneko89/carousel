@@ -1,0 +1,16 @@
+{
+  "name": "eneko.me",
+  "description": "Carousel for Whitespectre.",
+  "author": "Eneko <contact@eneko.me>",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "latest",
+    "morgan": "latest",
+    "compression": "latest"
+  },
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  }
+}
